@@ -1040,10 +1040,10 @@ section.lazy-placeholder:after {
   }
 }
 .cid-rHAvH33Lic H1 {
-  text-align: right;
+  text-align: left;
 }
 .cid-rHAvH33Lic H3 {
-  text-align: right;
+  text-align: left;
 }
 .cid-rHAV1FXMaD {
   padding-top: 90px;
@@ -1957,43 +1957,43 @@ section.lazy-placeholder:after {
     padding: 0;
   }
 }
-.cid-rHANJXhjDI {
+.cid-rHBsGpLEZm {
   padding-top: 60px;
   padding-bottom: 60px;
   background-color: #053d05;
 }
 @media (max-width: 767px) {
-  .cid-rHANJXhjDI .content {
+  .cid-rHBsGpLEZm .content {
     text-align: center;
   }
-  .cid-rHANJXhjDI .content > div:not(:last-child) {
+  .cid-rHBsGpLEZm .content > div:not(:last-child) {
     margin-bottom: 2rem;
   }
 }
 @media (max-width: 767px) {
-  .cid-rHANJXhjDI .media-wrap {
+  .cid-rHBsGpLEZm .media-wrap {
     margin-bottom: 1rem;
   }
 }
-.cid-rHANJXhjDI .media-wrap .mbr-iconfont-logo {
+.cid-rHBsGpLEZm .media-wrap .mbr-iconfont-logo {
   font-size: 7.5rem;
   color: #f36;
 }
-.cid-rHANJXhjDI .media-wrap img {
+.cid-rHBsGpLEZm .media-wrap img {
   height: 6rem;
 }
 @media (max-width: 767px) {
-  .cid-rHANJXhjDI .footer-lower .copyright {
+  .cid-rHBsGpLEZm .footer-lower .copyright {
     margin-bottom: 1rem;
     text-align: center;
   }
 }
-.cid-rHANJXhjDI .footer-lower hr {
+.cid-rHBsGpLEZm .footer-lower hr {
   margin: 1rem 0;
   border-color: #fff;
   opacity: .05;
 }
-.cid-rHANJXhjDI .footer-lower .social-list {
+.cid-rHBsGpLEZm .footer-lower .social-list {
   padding-left: 0;
   margin-bottom: 0;
   list-style: none;
@@ -2003,28 +2003,28 @@ section.lazy-placeholder:after {
   -webkit-justify-content: flex-end;
   justify-content: flex-end;
 }
-.cid-rHANJXhjDI .footer-lower .social-list .mbr-iconfont-social {
+.cid-rHBsGpLEZm .footer-lower .social-list .mbr-iconfont-social {
   font-size: 1.3rem;
   color: #fff;
 }
-.cid-rHANJXhjDI .footer-lower .social-list .soc-item {
+.cid-rHBsGpLEZm .footer-lower .social-list .soc-item {
   margin: 0 .5rem;
 }
-.cid-rHANJXhjDI .footer-lower .social-list a {
+.cid-rHBsGpLEZm .footer-lower .social-list a {
   margin: 0;
   opacity: .5;
   -webkit-transition: .2s linear;
   transition: .2s linear;
 }
-.cid-rHANJXhjDI .footer-lower .social-list a:hover {
+.cid-rHBsGpLEZm .footer-lower .social-list a:hover {
   opacity: 1;
 }
 @media (max-width: 767px) {
-  .cid-rHANJXhjDI .footer-lower .social-list {
+  .cid-rHBsGpLEZm .footer-lower .social-list {
     -webkit-justify-content: center;
     justify-content: center;
   }
 }
-.cid-rHANJXhjDI P {
+.cid-rHBsGpLEZm P {
   text-align: left;
 }

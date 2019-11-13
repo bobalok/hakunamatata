@@ -1,5 +1,19 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i&display=swap);
 
+
+@media (max-width: 767px) {
+  .cid-rHAxXvO2of .content {
+    text-align: center;
+    padding-top: 18rem;
+}
+}
+
+@media (max-width: 375px) {
+  .mbr-text {
+    text-align: center !important;
+  }
+}
+
 @media (min-width: 768px){
 .p-5-1 {
   /* padding-right: 0px; */

@@ -1033,9 +1033,10 @@ section.lazy-placeholder:after {
 .cid-rHAvH33Lic .mbr-section-subtitle {
   letter-spacing: .2rem;
 }
+/* 
 .cid-rHAvH33Lic .media-container-column {
- // background-color: #b1a374;
-}
+ background-color: #b1a374;
+}*/
 @media (max-width: 767px) {
   .cid-rHAvH33Lic .media-container-column {
     padding: 1rem !important;

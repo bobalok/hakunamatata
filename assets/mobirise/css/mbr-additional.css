@@ -8,18 +8,18 @@
 }
 }
 
-@media (max-width: 375px) {
+@media (max-width: 414px) {
   .mbr-text {
     text-align: center !important;
   }
 }
 
-@media (min-width: 768px){
+@media (max-width: 768px){
 .p-5-1 {
   /* padding-right: 0px; */
   padding-left: 0px;
   /* margin-right: 0px; */
-  margin-left: -130px;
+  /* margin-left: -130px; */
 }
 }
 

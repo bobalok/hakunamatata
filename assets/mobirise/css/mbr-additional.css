@@ -1,6 +1,9 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i&display=swap);
 
 
+.justify-row {
+  justify-content: center;
+}
 
 .display-0 {
   text-align: left;
@@ -32,7 +35,7 @@
 
 
 body {
-  font-family: Rubik;
+  font-family: Roboto;
 }
 .display-1 {
   font-family: 'Roboto', sans-serif;

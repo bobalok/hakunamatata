@@ -3205,3 +3205,12 @@ section.lazy-placeholder:after {
 .cid-rNOTFop3wi DIV {
   text-align: left;
 }
+
+.main-text
+{
+    position: absolute;
+    top: 12rem;
+    width: 96.66666666666666%;
+    color: #fff;
+    z-index: 1;
+}

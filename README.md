@@ -1,2 +1,0 @@
-# hakunamatata
-GitHub Pages
